@@ -3,8 +3,8 @@ import 'package:flutter/material.dart';
 void main() {
   runApp(const MyApp());
 
-  //it is copy1
-  //it is also copy1
+  //it is master
+  //it is also master
 }
 
 class MyApp extends StatelessWidget {

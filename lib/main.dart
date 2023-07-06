@@ -4,6 +4,7 @@ void main() {
   runApp(const MyApp());
 
   //it is master
+  //it is also master 
 }
 
 class MyApp extends StatelessWidget {
